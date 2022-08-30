@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: rgb(192, 115, 255);
+}
+.Teknikler{
+  width: 700px;
+  text-align:left;
+  font-size: calc(9px + 2vmin);
+  padding:10px 200px;
+}
+.Slider{
+  position: absolute; 
+  height: 500px;
+  width:400px;
+  right:300px;
+  top: 290px;
+}
+ .BaskiTeknikleri{
+  text-align: center;
+  font-style:italic;
+  padding:20px 40px;
+} 
+.Text{
+  text-align:left;
+  font-size: calc(7px + 2vmin);
+  padding:2px 100px;
+}
+ .Teknikresmi{
+  padding:50px 100px;
+} 
